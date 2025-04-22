@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Sonu Prajapati!
 
 ## 🚀 About Me
-🎓 I'm a soon-to-be Computer Programming graduate with a passion for building impactful and user-friendly software solutions. I specialize in full-stack development and love transforming ideas into real-world applications.  
-🌍 Open to opportunities in **Software Development**, **Mobile App Development**, or **Data Analytics**.
+I'm a soon-to-be Computer Programming graduate with a passion for building impactful and user-friendly software solutions. I specialize in full-stack development and love transforming ideas into real-world applications.  
+🌍 Open to opportunities in **Software Development**, **Mobile App Development**, **Ui/Ux Designer**, or **Data Analytics**.
 
 ## 💡 What I Bring to the Table
 - 💻 **Technical Expertise:** Java, JavaScript, Android (Java), SQL, Power BI, Git/GitHub
